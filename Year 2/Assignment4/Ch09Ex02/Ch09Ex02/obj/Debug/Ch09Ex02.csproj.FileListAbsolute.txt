@@ -1,0 +1,8 @@
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment4\Ch09Ex02\Ch09Ex02\bin\Debug\Ch09Ex02.exe.config
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment4\Ch09Ex02\Ch09Ex02\bin\Debug\Ch09Ex02.exe
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment4\Ch09Ex02\Ch09Ex02\bin\Debug\Ch09Ex02.pdb
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment4\Ch09Ex02\Ch09Ex02\bin\Debug\Ch09ClassLib.dll
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment4\Ch09Ex02\Ch09Ex02\bin\Debug\Ch09ClassLib.pdb
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment4\Ch09Ex02\Ch09Ex02\obj\Debug\Ch09Ex02.csprojResolveAssemblyReference.cache
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment4\Ch09Ex02\Ch09Ex02\obj\Debug\Ch09Ex02.exe
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment4\Ch09Ex02\Ch09Ex02\obj\Debug\Ch09Ex02.pdb

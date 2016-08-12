@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch10CardLib", "ChlOCardLib\Ch10CardLib.csproj", "{7E708869-CC52-45CC-A94D-0BAD520BA1D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch10CardClient", "Ch10CardClient\Ch10CardClient.csproj", "{5F91459E-C73B-42E2-A9E1-1AC60ADE765B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise105", "Exercise105\Exercise105.csproj", "{F658F428-5888-499F-9944-C6C9696344CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E708869-CC52-45CC-A94D-0BAD520BA1D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E708869-CC52-45CC-A94D-0BAD520BA1D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E708869-CC52-45CC-A94D-0BAD520BA1D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E708869-CC52-45CC-A94D-0BAD520BA1D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F91459E-C73B-42E2-A9E1-1AC60ADE765B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F91459E-C73B-42E2-A9E1-1AC60ADE765B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F91459E-C73B-42E2-A9E1-1AC60ADE765B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F91459E-C73B-42E2-A9E1-1AC60ADE765B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F658F428-5888-499F-9944-C6C9696344CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F658F428-5888-499F-9944-C6C9696344CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F658F428-5888-499F-9944-C6C9696344CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F658F428-5888-499F-9944-C6C9696344CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment10\Assignment10\bin\Debug\Assignment10.exe.config
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment10\Assignment10\bin\Debug\Assignment10.exe
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment10\Assignment10\bin\Debug\Assignment10.pdb
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment10\Assignment10\obj\Debug\Assignment10.frmAssignment10.resources
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment10\Assignment10\obj\Debug\Assignment10.Properties.Resources.resources
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment10\Assignment10\obj\Debug\Assignment10.csproj.GenerateResource.Cache
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment10\Assignment10\obj\Debug\Assignment10.exe
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment10\Assignment10\obj\Debug\Assignment10.pdb
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment10\Assignment10\obj\Debug\Assignment10.CardBox.resources

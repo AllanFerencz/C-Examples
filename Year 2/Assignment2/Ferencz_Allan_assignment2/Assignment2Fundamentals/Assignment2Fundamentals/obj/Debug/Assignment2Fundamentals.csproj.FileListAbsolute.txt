@@ -1,0 +1,9 @@
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\VB\Projects\Assignment2Fundamentals\Assignment2Fundamentals\bin\Debug\Assignment2Fundamentals.exe.config
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\VB\Projects\Assignment2Fundamentals\Assignment2Fundamentals\obj\Debug\Assignment2Fundamentals.csprojResolveAssemblyReference.cache
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\VB\Projects\Assignment2Fundamentals\Assignment2Fundamentals\bin\Debug\Assignment2Fundamentals.exe
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\VB\Projects\Assignment2Fundamentals\Assignment2Fundamentals\bin\Debug\Assignment2Fundamentals.pdb
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\VB\Projects\Assignment2Fundamentals\Assignment2Fundamentals\obj\Debug\Assignment2Fundamentals.exe
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\VB\Projects\Assignment2Fundamentals\Assignment2Fundamentals\obj\Debug\Assignment2Fundamentals.pdb
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment2\Ferencz_Allan_assignment2\Assignment2Fundamentals\Assignment2Fundamentals\bin\Debug\Assignment2Fundamentals.exe.config
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment2\Ferencz_Allan_assignment2\Assignment2Fundamentals\Assignment2Fundamentals\obj\Debug\Assignment2Fundamentals.exe
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment2\Ferencz_Allan_assignment2\Assignment2Fundamentals\Assignment2Fundamentals\obj\Debug\Assignment2Fundamentals.pdb

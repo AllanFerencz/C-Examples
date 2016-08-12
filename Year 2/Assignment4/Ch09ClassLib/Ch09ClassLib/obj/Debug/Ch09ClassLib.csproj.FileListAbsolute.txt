@@ -1,0 +1,4 @@
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment4\Ch09ClassLib\Ch09ClassLib\bin\Debug\Ch09ClassLib.dll
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment4\Ch09ClassLib\Ch09ClassLib\bin\Debug\Ch09ClassLib.pdb
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment4\Ch09ClassLib\Ch09ClassLib\obj\Debug\Ch09ClassLib.dll
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment4\Ch09ClassLib\Ch09ClassLib\obj\Debug\Ch09ClassLib.pdb

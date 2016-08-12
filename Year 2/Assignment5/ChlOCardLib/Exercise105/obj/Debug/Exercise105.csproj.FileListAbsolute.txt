@@ -1,0 +1,8 @@
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment5\ChlOCardLib\Exercise105\bin\Debug\Exercise105.exe.config
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment5\ChlOCardLib\Exercise105\bin\Debug\Exercise105.exe
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment5\ChlOCardLib\Exercise105\bin\Debug\Exercise105.pdb
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment5\ChlOCardLib\Exercise105\bin\Debug\ChlOCardLib.dll
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment5\ChlOCardLib\Exercise105\bin\Debug\ChlOCardLib.pdb
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment5\ChlOCardLib\Exercise105\obj\Debug\Exercise105.csprojResolveAssemblyReference.cache
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment5\ChlOCardLib\Exercise105\obj\Debug\Exercise105.exe
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment5\ChlOCardLib\Exercise105\obj\Debug\Exercise105.pdb

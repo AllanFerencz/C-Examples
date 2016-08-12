@@ -1,0 +1,5 @@
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment1\Ch04Ex02\Ch04Ex02\bin\Debug\Ch04Ex02.exe.config
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment1\Ch04Ex02\Ch04Ex02\bin\Debug\Ch04Ex02.exe
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment1\Ch04Ex02\Ch04Ex02\bin\Debug\Ch04Ex02.pdb
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment1\Ch04Ex02\Ch04Ex02\obj\Debug\Ch04Ex02.exe
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment1\Ch04Ex02\Ch04Ex02\obj\Debug\Ch04Ex02.pdb

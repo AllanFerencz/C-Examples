@@ -1,0 +1,4 @@
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment5\ChlOCardLib\ChlOCardLib\bin\Debug\ChlOCardLib.dll
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment5\ChlOCardLib\ChlOCardLib\bin\Debug\ChlOCardLib.pdb
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment5\ChlOCardLib\ChlOCardLib\obj\Debug\ChlOCardLib.dll
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment5\ChlOCardLib\ChlOCardLib\obj\Debug\ChlOCardLib.pdb

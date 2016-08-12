@@ -1,0 +1,9 @@
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment6\Assignment6OOP\Assignment6OOP\bin\Debug\Assignment6OOP.exe.config
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment6\Assignment6OOP\Assignment6OOP\obj\Debug\Assignment6OOP.csprojResolveAssemblyReference.cache
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment6\Assignment6OOP\Assignment6OOP\bin\Debug\Assignment6OOP.exe
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment6\Assignment6OOP\Assignment6OOP\bin\Debug\Assignment6OOP.pdb
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment6\Assignment6OOP\Assignment6OOP\obj\Debug\Assignment6OOP.exe
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment6\Assignment6OOP\Assignment6OOP\obj\Debug\Assignment6OOP.pdb
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment6\Ferencz_Allan_Assignment6\Assignment6OOP\Assignment6OOP\bin\Debug\Assignment6OOP.exe.config
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment6\Ferencz_Allan_Assignment6\Assignment6OOP\Assignment6OOP\obj\Debug\Assignment6OOP.exe
+C:\Users\allan\Documents\Durham College\Year2\Semester 2\C#\Projects\Assignment6\Ferencz_Allan_Assignment6\Assignment6OOP\Assignment6OOP\obj\Debug\Assignment6OOP.pdb
